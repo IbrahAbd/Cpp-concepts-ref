@@ -52,6 +52,7 @@
         "xtr1common": "cpp",
         "xutility": "cpp",
         "numeric": "cpp",
-        "list": "cpp"
+        "list": "cpp",
+        "string": "cpp"
     }
 }
